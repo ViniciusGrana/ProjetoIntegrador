@@ -7,6 +7,9 @@ from query import *
 query = 'SELECT * FROM registro' 
 df = conexao(query)
 
+email_remetente = ''
+
+
 email_remetente = st.text_input("Insira o Email que deseja receber as notificações")
 
 if st.button('Atualizar dados'):

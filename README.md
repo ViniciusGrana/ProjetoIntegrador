@@ -1,1 +1,1 @@
-# banco_mqtt
+# Projeto Integrador: Banco de Dados com MQTT

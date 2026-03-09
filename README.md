@@ -26,3 +26,4 @@ Este projeto foi desenvolvido como parte do **Curso Técnico em Desenvolvimento 
 ## 🎓 Contexto Acadêmico
 
 Este projeto demonstra a aplicação prática de conceitos de **IoT (Internet das Coisas)**, **Sistemas Distribuídos**, **Persistência de Dados** e **Visualização de Dados**, fundamentais tanto na formação de um Desenvolvedor de Sistemas quanto para um profissional de Ciência de Dados que lida com dados de sensores.
+
